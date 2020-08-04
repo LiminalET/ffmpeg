@@ -1665,7 +1665,6 @@ EXTERNAL_LIBRARY_GPL_LIST="
     libdavs2
     librubberband
     libvidstab
-    libx264
     libx265
     libxavs
     libxavs2
@@ -1761,6 +1760,7 @@ EXTERNAL_LIBRARY_LIST="
     openal
     opengl
     vapoursynth
+    libx264
 "
 
 HWACCEL_AUTODETECT_LIBRARY_LIST="
